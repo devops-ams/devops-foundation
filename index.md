@@ -1,6 +1,5 @@
 ---
 layout: home
-title: Stichting DevOps Foundation
 subtitle: What is it?
 ---
 
