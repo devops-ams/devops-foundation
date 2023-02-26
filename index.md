@@ -7,6 +7,8 @@ subtitle: What is it?
 
 Stichting DevOps Foundation is the financial and legal non-profit entity (Stichting) behind devopsdays Amsterdam, the DevOpsAmsterdam meetup group, the 10th anniversary of DevOpsDays Ghent (2019), and devopsdays Eindhoven.
 
+Stichting DevOps Foundation also offers hosting of event management ([Pretix](https://pretix.eu)) and proposal management solutions ([Pretalx](https://pretalx.com/p/about/)) to organizations like DevOpsDays Chicago and DevOpsDays Prague.
+
 ## Legal & Financial Details
 
 - KVK: 60645873
