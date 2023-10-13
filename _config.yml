@@ -20,9 +20,10 @@ description: Homepage of Stichting DevOps
 ###############################################
 
 navbar-links:
-  2023 Conference:
-    - devopsdays Amsterdam 2023: "https://devopsdays.org/amsterdam"
+  # 2024 Conference:
   Prior Conferences:
+    - devopsdays Eindhoven 2023: "https://devopsdays.org/events/2023-eindhoven"
+    - devopsdays Amsterdam 2023: "https://devopsdays.org/events/2023-amsterdam"
     - devopsdays Eindhoven 2022: "https://devopsdays.org/events/2022-eindhoven"
     - devopsdays Amsterdam 2022: "https://devopsdays.org/events/2022-amsterdam"
     - devopsdays oNLine (Amsterdam) 2021: "https://devopsdays.org/2021-amsterdam/welcome"
