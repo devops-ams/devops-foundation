@@ -36,7 +36,9 @@ navbar-links:
     - devopsdays Amsterdam 2015: "https://devopsdays.org/events/2015-amsterdam/welcome/"
     - devopsdays Amsterdam 2014: "https://devopsdays.org/events/2014-amsterdam/welcome/"
     - devopsdays Amsterdam 2013: "https://devopsdays.org/events/2013-amsterdam/welcome/"
-  Meetup Group: "https://www.meetup.com/DevOpsAmsterdam/"
+  Meetup Groups: 
+    - "devops Meetup Amsterdam: "https://www.meetup.com/DevOpsAmsterdam/"
+    - "devops Meetup Eindhoven: "https://www.meetup.com/devops-eindhoven/"
 
 ################
 # --- Logo --- #
