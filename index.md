@@ -17,7 +17,8 @@ At Stichting DevOps Foundation, our passion is to foster, facilitate, and financ
 
 - KVK: 60645873
 - BTW: NL8539.97.871B01
-- Bank (Main): NL73 BUNQ 2206 8227 76
+- **Bank (devopsdays.org): NL38 BUNQ 2145 1041 35**
+- Bank (Administrative): NL73 BUNQ 2206 8227 76
 - BIC: BUNQNL2A
 
 ## The boardmembers
